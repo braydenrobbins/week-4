@@ -1,0 +1,13 @@
+braydens-mbp:week-4 braydenrobbins$ git merge hotfix
+CONFLICT (modify/delete): index.txt deleted in HEAD and modified in hotfix. Version hotfix of index.txt left in tree.
+Automatic merge failed; fix conflicts and then commit the result.braydens-mbp:week-4 braydenrobbins$ git merge hotfix
+CONFLICT (modify/delete): index.txt deleted in HEAD and modified in hotfix. Version hotfix of index.txt left in tree.
+Automatic merge failed; fix conflicts and then commit the result.braydens-mbp:week-4 braydenrobbins$ git merge hotfix
+CONFLICT (modify/delete): index.txt deleted in HEAD and modified in hotfix. Version hotfix of index.txt left in tree.
+Automatic merge failed; fix conflicts and then commit the result.braydens-mbp:week-4 braydenrobbins$ git merge hotfix
+CONFLICT (modify/delete): index.txt deleted in HEAD and modified in hotfix. Version hotfix of index.txt left in tree.
+Automatic merge failed; fix conflicts and then commit the result.braydens-mbp:week-4 braydenrobbins$ git merge hotfix
+CONFLICT (modify/delete): index.txt deleted in HEAD and modified in hotfix. Version hotfix of index.txt left in tree.
+Automatic merge failed; fix conflicts and then commit the result.
+
+
